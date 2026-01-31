@@ -1,4 +1,4 @@
-# Production-Quality CLI Task Manager
+# CLI Task Manager
 
 A robust, modular, and extensible Command Line Interface (CLI) Task Manager built in Python, adhering to SOLID principles and Clean Architecture.
 
